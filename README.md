@@ -1,5 +1,3 @@
 # androidKotlin
 
- Hello World 코틀린을 추가합니다. 
- 
- 버튼 및 레이아웃 ID 자동생성 기능!
+Git 및 github를 이용한 코틀린 예제 확인
